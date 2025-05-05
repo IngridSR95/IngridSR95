@@ -25,8 +25,10 @@
   <img align="center" alt="Ingrid-HTML" height="30" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ingrid-CSS" height="30" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ingrid-Js" height="30" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ingrid-Node" height="40" width="50" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 
   <img align="center" alt="Ingrid-C++" height="30" width="40" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Ingrid-Java" height="30" width="40" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
 </div>
 
 ##
