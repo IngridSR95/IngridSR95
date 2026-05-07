@@ -10,7 +10,7 @@
  <p>Sou comunicativa, gosto de colaborar em equipe e acredito que a tecnologia se torna ainda mais poderosa quando é compartilhada. Aqui você vai encontrar projetos simples, feitos com muito carinho e o desejo de evoluir a cada commit. 💻</p>
 <p>Se quiser trocar uma ideia, me chama no LinkedIn. Vai ser um prazer! 🫱🏽‍🫲🏼</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffffff&color=A084DC)](https://www.linkedin.com/in/ingrid-santana-rodrigues-149750273/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffffff&color=A084DC)](https://www.linkedin.com/in/ingrid-rodrigues05/)
 
 ##
 
