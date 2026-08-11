@@ -14,11 +14,12 @@
 
 ##
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A084DC&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+My+Stacks+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+<h3 align="center">📊 GitHub Stats </h3>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IngridSR95&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridSR95&layout=compact&theme=radical" />
+</p>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ingrid-Python" height="30" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
