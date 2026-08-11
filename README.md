@@ -5,21 +5,20 @@
 </div>
 
 <h3 align="left">💬 Mais sobre mim :)</h3> 
- <p>Oi, sou <strong>Ingrid Santana Rodrigues</strong>, estudante de Análise e Desenvolvimento de Sistemas na FATEC SCS. Estou construindo meu caminho na área de tecnologia com muita dedicação, curiosidade e vontade de aprender sempre mais. 🌱</p>
- <p>Tenho explorado linguagens e tecnologias como <strong>Python</strong>, <strong>Java</strong>, <strong>C++</strong>, <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, buscando entender como elas funcionam na prática e como podem ser aplicadas em soluções reais.</p>
- <p>Sou comunicativa, gosto de colaborar em equipe e acredito que a tecnologia se torna ainda mais poderosa quando é compartilhada. Aqui você vai encontrar projetos simples, feitos com muito carinho e o desejo de evoluir a cada commit. 💻</p>
+<p>Oi, sou <strong>Ingrid Rodrigues</strong>, recentemente graduada em Análise e Desenvolvimento de Sistemas pela FATEC SCS. Estou construindo minha carreira na tecnologia com foco em <strong>Desenvolvimento Front-End & Mobile</strong>. 💻🌱</p>
+<p>Tenho experiência prática no desenvolvimento de aplicações utilizando <strong>Vue.js</strong>, <strong>JavaScript</strong>, <strong>Kotlin (Android)</strong>, além de sólidos conhecimentos em <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>Python</strong>, <strong>Java</strong> e <strong>C++</strong>.</p>
+ <p>Aqui você vai encontrar projetos simples, feitos com muito carinho e o desejo de evoluir a cada commit. 💻</p>
 <p>Se quiser trocar uma ideia, me chama no LinkedIn. Vai ser um prazer! 🫱🏽‍🫲🏼</p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffffff&color=A084DC)](https://www.linkedin.com/in/ingrid-rodrigues05/)
 
 ##
 
-<h3 align="center">📊 GitHub Stats </h3>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IngridSR95&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridSR95&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A084DC&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+My+Stacks+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ingrid-Python" height="30" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -31,19 +30,6 @@
   <img align="center" alt="Ingrid-Java" height="30" width="40" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
           
 </div>
-
-##
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A084DC&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+GitHub+Stats+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IngridSR95&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridSR95&layout=compact&theme=radical" />
-</p>
 
 ##
 
